@@ -5,6 +5,8 @@
     list-style: none;
 }
 
+
+
 :root {
     --color-primary: #191d2b;
     --color-secondary: #27AE60;
@@ -296,7 +298,7 @@ section {
                         height: 100%;
                         background-color: var(--color-secondary);
                         transition: all .4s ease-in-out;
-                        width: 60%;
+                        width: 50%;
                     }
                     .html { width: 80%; }
                     .css { width: 95%; }
